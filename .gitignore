@@ -48,3 +48,8 @@ Thumbs.db
 # Logs
 *.log
 logs/
+
+.claude/agents/
+.claude/memory/
+
+SPEC.md
